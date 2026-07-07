@@ -23,4 +23,4 @@ Each problem gets its own folder, named after the problem's LeetCode slug/number
 
 | Language         | Problems Solved |
 | ---------------- | --------------- |
-| SQL (PostgreSQL) | 2               |
+| SQL (PostgreSQL) | 3               |
