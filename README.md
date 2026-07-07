@@ -1,8 +1,26 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/biplob-codes/leetcode-sql/tree/master/0175-combine-two-tables) |
-<!---LeetCode Topics End-->
+# LeetCode Solutions
+
+My solutions to LeetCode problems.
+
+## Structure
+
+Each problem gets its own folder, named after the problem's LeetCode slug/number, containing:
+
+- `README.md` — the original problem statement
+- Solution file (`.sql`, `.js`, `.py`, etc.) — the actual solution
+
+```
+├── 175-combine-two-tables/
+│   ├── README.md
+│   └── solution.sql
+├── 176-second-highest-salary/
+│   ├── README.md
+│   └── solution.sql
+└── ...
+```
+
+## Stats
+
+| Language         | Problems Solved |
+| ---------------- | --------------- |
+| SQL (PostgreSQL) | 2               |
